@@ -1,4 +1,6 @@
-
+h4{
+    background-color:#FFFFFF ;
+}
 @media (max-width: 767px) {
 
 * {
@@ -1706,5 +1708,6 @@ hr{
     background: #14d6cd;
     border-radius: 2px;
 }
+
 
 
